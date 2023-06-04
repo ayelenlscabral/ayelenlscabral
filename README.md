@@ -1,9 +1,20 @@
-- 👋 Hola, mi Nombre es Ayelen Cabral.
-soy estudiante de la Tecnicatura Universitaria en Programacion, en la Universidad Tecnológina Nacional San rafael y de forma autodidacta me centro en aprender
-y mejorar mis habilidades como programadora.
+Ayelen Cabral
+Estudiante de Técnica Universitaria en Programación (En curso)
+¡Hola! Soy Ayelen Cabral, una estudiante entusiasta de la Técnica Universitaria en Programación. Actualmente, estoy cursando mi carrera y espero finalizarla en 2023. También estoy trabajando en un emocionante proyecto en colaboración con el grupo de programación de la Universidad Tecnológica Nacional (UTN) para la facultad. Estamos desarrollando soluciones innovadoras y aplicando nuestros conocimientos en un entorno académico.
 
+Habilidades Técnicas
+Lenguajes de Programación: Python, HTML, CSS, JavaScript
+Frontend: React
+Backend: Node.js, Express.js
+Bases de Datos: SQL, MongoDB
+Control de Versiones: Git, GitHub
+Metodologías Ágiles: Scrum, Kanban
+Educación
+Técnica Universitaria en Programación - UTN San Rafael (En curso, finalización en 2023)
+Idiomas
+Español (Nativo)
+Inglés (Avanzado)
+Contacto
+¡Siempre estoy interesado en conocer a otros desarrolladores y colaborar en proyectos emocionantes! No dudes en contactarme a través de mi correo electrónico: ayelencabral22@gmail.com
 
-<!---
-ayelenlscabral/ayelenlscabral is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+¡Espero tener la oportunidad de colaborar contigo en el futuro!
