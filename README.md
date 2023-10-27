@@ -3,6 +3,7 @@
 ## Acerca de mí
 
 Soy un apasionada estudiante de Tecnicatura Universitaria en Programación en la UTN San Rafael, Argentina. Mi enfoque principal está en el desarrollo de sitios web, donde combino habilidades técnicas con el diseño de la experiencia del cliente para crear experiencias web excepcionales.
+mis agradecimientos a <img src="/media/utn_icon.png" width=15% height=15%>
 
 Actualmente, también estoy cursando una Diplomatura en Desarrollo de Videojuegos en la Universidad de Avellaneda. Mi amor por la programación se extiende al mundo de los videojuegos, donde busco explorar y crear experiencias interactivas emocionantes.
 
