@@ -1,21 +1,61 @@
-# ¡Hola, soy Ayelen !
+<!-- Introduccion -->
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋+My+name+is+Ayelen;I'm+from+Argentina;I'm+34+years-old;Welcome+to+my+profile!)
 
-## Acerca de mí
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-Soy un apasionada estudiante de Tecnicatura Universitaria en Programación en la UTN San Rafael, Argentina. Mi enfoque principal está en el desarrollo de sitios web, donde combino habilidades técnicas con el diseño de la experiencia del cliente para crear experiencias web excepcionales.
+<!-- BREVE DESCRIPCION -->
+<div align="center">
 
-Actualmente, también estoy cursando una Diplomatura en Desarrollo de Videojuegos en la Universidad de Avellaneda. Mi amor por la programación se extiende al mundo de los videojuegos, donde busco explorar y crear experiencias interactivas emocionantes.
+  📚 I am currently studying at [UTN - Facultad Regional San Rafael](https://www.frsr.utn.edu.ar/)
 
-## Habilidades
+  🌱 I am currently pursuing a **University degree in Programming**
 
-- Desarrollo web front-end y back-end
-- Diseño de la experiencia del cliente (UX/UI)
-- Lenguajes de programación: HTML, CSS, JavaScript, Python
-- Frameworks y bibliotecas: React, Node.js, Django
-- Creación y gestión de bases de datos
-- Desarrollo de videojuegos y gráficos interactivos
-- Colaboración en equipos de desarrollo
-- Solución de problemas y aprendizaje continuo
+🏙 Contributor to [CodeSystem2022 organization](https://github.com/CodeSystem2022)
+
+👩‍💻 All of my projects are available at [Repository](https://github.com/ayelenlscabral?tab=repositories)
+
+📫 How to reach me **ayelencabral22@gmail.com**
+
+</div>
+
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
+
+<!--- stats & Trophy (start) -->
+@@ -17,8 +35,8 @@
+
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ayelenlscabral=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
+  
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayelenlscabral=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7" alt="ayelenlscabral" /></p>
+
+  </td>
+</tr>
+@@ -42,13 +60,15 @@
+<!--profile visit count-->
+
+<div align="center">
+
+
+[![](https://visitcount.itsvg.in/api?id=JoaquinZabala&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
+
+</div>
+
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+-----------
+
+<!-- CONTACTO -->
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="linkedin.com/in/ayelen-cabral-1276a6177" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-
+<a href="https://github.com/ayelenlscabral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" /></a>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=ayelenlscabral&label=Profile%20views&color=0e75b6&style=flat" /> </p>
+</p></br>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
