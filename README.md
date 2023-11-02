@@ -17,45 +17,6 @@
 
 📫 How to reach me **ayelencabral22@gmail.com**
 
-</div>
-
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
-
-<!--- stats & Trophy (start) -->
-@@ -17,8 +35,8 @@
-
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ayelenlscabral=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
-  
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayelenlscabral=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7" alt="ayelenlscabral" /></p>
-
-  </td>
-</tr>
-@@ -42,13 +60,15 @@
-<!--profile visit count-->
-
-<div align="center">
-
-
-[![](https://visitcount.itsvg.in/api?id=JoaquinZabala&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
-
-</div>
-
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
------------
-
-<!-- CONTACTO -->
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="linkedin.com/in/ayelen-cabral-1276a6177" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-
-<a href="https://github.com/ayelenlscabral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" /></a>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=ayelenlscabral&label=Profile%20views&color=0e75b6&style=flat" /> </p>
-</p></br>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
