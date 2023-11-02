@@ -33,19 +33,6 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <div align="center">
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-<div/>
-<img src="f" width="100%">
-<div align="center">
-  
-### 😂 Random Dev Meme
-
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
-<div/>
 
 https://www.linkedin.com/in/ayelen-cabral-1276a6177?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BV8NkP%2FEZR%2B23eEe5oEu9PQ%3D%3D
 
