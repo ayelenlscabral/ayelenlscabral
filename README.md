@@ -34,6 +34,6 @@
 <div align="center">
 
 
-https://www.linkedin.com/in/ayelen-cabral-1276a6177?
+https://www.linkedin.com/in/ayelen-cabral-1276a6177
 
 ¡Espero tener la oportunidad de colaborar contigo en el futuro!
