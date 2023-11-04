@@ -24,11 +24,7 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <div align="center">
   
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DanielGuerrero03&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DanielGuerrero03&theme=react&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielGuerrero03&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-  
+
 <div/>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <div align="center">
