@@ -7,6 +7,7 @@
 <!-- BREVE DESCRIPCION -->
 <div align="center">
 
+<img src="https://github.com/7oSkaaa/7oSkaaa/raw/output/github-contribution-grid-snake.svg?" alt="Snake Game" style="max-width: 100%;">
   📚 I am currently studying at [UTN - Facultad Regional San Rafael](https://www.frsr.utn.edu.ar/)
 
   🌱 I am currently pursuing a **University degree in Programming**
