@@ -29,7 +29,6 @@
 <div/>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <div align="center">
-blob:https://web.whatsapp.com/c2afd20d-5e73-4a8a-a251-5d07087f700e
 
 https://www.linkedin.com/in/ayelen-cabral-1276a6177
 
